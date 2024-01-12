@@ -1,0 +1,10 @@
+{
+  "accentColor": "#00c6e0",
+  "theme": "system",
+  "cssTheme": "Atom",
+  "enabledCssSnippets": [
+    "quote",
+    "snippet",
+    "blockquote"
+  ]
+}

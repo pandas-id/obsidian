@@ -1,0 +1,22 @@
+blockquote {
+  font-style: italic;
+  margin: 0;
+}
+
+blockquote p:first-child::before {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 14px/20px;
+  font-style: italic;
+  content: "“";
+}
+
+blockquote p:first-child::after {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 14px/20px;
+  font-style: italic;
+  content: "”";
+}
+
+blockquote p:last-child::before {
+  content: "~ ";
+}

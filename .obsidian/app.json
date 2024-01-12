@@ -1,0 +1,18 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "mobileToolbarCommands": [
+    "templater-obsidian:insert-templater",
+    "command-palette:open",
+    "editor:undo",
+    "editor:redo",
+    "editor:attach-file",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:toggle-code",
+    "editor:insert-link",
+    "editor:configure-toolbar",
+    "editor:toggle-strikethrough"
+  ],
+  "mobilePullAction": "templater-obsidian:insert-templater"
+}

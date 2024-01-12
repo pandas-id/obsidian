@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "32fc22783ba2994f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdf2e7479153b161",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6bf6c4cf4adeb20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-12-05.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e731915983ccccec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Note Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "229af4e5d3a72311",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quotes/202312110843 Jalaluddin Rumi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b8789d405362da7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quotes/202312192302 Konfusius.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f112d891da722688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202401032101 Roster Semester 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07829cd96dc8a93e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "191006f5ab33ec8a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "857797c09dedd87f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:bahagia",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": true,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "571d7ec2cc8544e8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "3ae80b9885956322",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "1b9ebf8f12b960d8",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "67287240b37ae257",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ee5e17dea4b84de2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "202401032101 Roster Semester 6.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "cc0c6f9c2dd68c50",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "202401032101 Roster Semester 6.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "269d5d26c443a7d6",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "202401032101 Roster Semester 6.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "f112d891da722688",
+  "lastOpenFiles": [
+    "2023-12-05.md",
+    "Todo Lists/Untitled.md",
+    "202401032101 Roster Semester 6.md",
+    "Notes/202312052021 Pasar Lokal.md",
+    "Quotes/202312082105 Ibnu Athaillah.md",
+    "2023-12-04.md",
+    "2023-12-11.md",
+    "202312221851.md",
+    "Cabor Perseni.md",
+    "Dataview.md",
+    "G5123122201463.md",
+    "Quotes/202312281021 Fahruddin Faiz.md",
+    "Todo Lists/Programming.md",
+    "Todo Lists/Projects.md",
+    "Quotes/202312192302 Konfusius.md",
+    "Quotes/202312112329 Fahruddin Faiz.md",
+    "Quotes/202312111816 John Locke.md",
+    "Quotes/202312110843 Jalaluddin Rumi.md",
+    "Quotes/202312082101 Fahruddin Faiz.md",
+    "Quotes/202312082042 Fahruddin Faiz.md",
+    "Quotes/202312082041 Jalaluddin Rumi.md",
+    "202312112328 Fahruddin Faiz.md",
+    "Quotes/Untitled.md",
+    "Templates/Todo Template.md",
+    "Quotes/Jalaluddin Rumi.md",
+    "Todo.md",
+    "Templates/4913",
+    "Todo Lists",
+    "Quotes/4913",
+    "Templates/Book Template.md~",
+    "Templates/Quote Template.md~",
+    "4913",
+    "script.js",
+    "Lorem Ipsum.md~",
+    "Scripts/script.js",
+    "Scripts",
+    "Excalidraw/Drawing 2023-12-06 09.36.44.excalidraw.png",
+    "kk.canvas"
+  ]
+}
