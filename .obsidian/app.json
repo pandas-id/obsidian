@@ -14,5 +14,6 @@
     "editor:configure-toolbar",
     "editor:toggle-strikethrough"
   ],
-  "mobilePullAction": "templater-obsidian:insert-templater"
+  "mobilePullAction": "templater-obsidian:insert-templater",
+  "spellcheck": false
 }

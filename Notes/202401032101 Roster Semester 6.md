@@ -30,10 +30,10 @@ modified: 2024-01-03 21:01
 	2. Biologi (08.45 - 10.15)
 	3. Seni Budaya (10.40 - 12.10)
 	4. Peminatan Sejarah (12.25 - 13.55)
-- Jumat
+- **Jumat**
 	1. Bahasa Indonesia (08.05 - 09.35)
 	2. Sosiologi (10.00 - 11.30)
-- Sabtu
+- **Sabtu**
 	1. Sosiologi (07.15 - 08.45)
 	2. Prakarya (08.45 - 10.15)
 	3. Bahasa Indonesia (10.40 - 12.10)
