@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3fd06b8bd189e5dd",
+        "id": "912b1601b1276e2a",
         "type": "tabs",
         "children": [
           {
-            "id": "96ad6ef7c8bd887c",
+            "id": "b73ce65d59664a45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo Lists/Idea.md",
+                "file": "202403201400.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tasawuf  ",
-                "matchingCase": false,
+                "query": "tag:#Note",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b5bb20f10753268e",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo Lists/Idea.md",
+                "file": "202403201400.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo Lists/Idea.md",
+                "file": "202403201400.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,15 +137,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo Lists/Idea.md"
+                "file": "202403201400.md"
+              }
+            }
+          },
+          {
+            "id": "91920684d6be1b4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "202403201400.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -159,30 +170,33 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "96ad6ef7c8bd887c",
+  "active": "b73ce65d59664a45",
   "lastOpenFiles": [
-    "202401142125.md",
-    "Todo Lists/Idea.md",
-    "Todo Lists/Untitled.md",
-    "Todo Lists/Programming.md",
-    "2023-12-05.md",
-    "202401141813.md",
+    "202403201359.md",
+    "202403201400.md",
     "202401122031 PKN - Daftar Pustaka.md",
-    "Quotes/202312082041 Jalaluddin Rumi.md",
-    "Quotes/202312082105 Ibnu Athaillah.md",
+    "202402251718.md",
+    "202403141843 Syekh Nawawi Al-Bantani.md",
+    "202403142045 My.md",
+    "202403160924 Falsafah Puasa.md",
+    "202312221851.md",
+    "2024-03-13.md",
+    "202403142045 Pedoman.md",
     "Notes/202401132038 Akal hyperactive.md",
-    "Notes/202401132037 Sifat akal.md",
-    "Notes/202401132033 Sifat manusia.md",
+    "Notes/202403131553 Awesome Website.md",
+    "Notes/202401161607 rukun islam.md",
+    "Notes/202401161600 inti ajaran islam.md",
+    "Cabor Perseni.md",
     "Notes/202401132023 Kunci orang belajar.md",
-    "Notes/202312062050 vested interest.md",
-    "Notes/202312062031 kekuatan politik awal kemerdekaan.md",
-    "Notes/202312052021 Pasar Lokal.md",
-    "G5123122201463.md",
+    "Dataview.md",
     "Notes/202401032101 Roster Semester 6.md",
-    "Templates/Note Template.md",
-    "Fleeting Notes/202312061943 Sejarah Indonesia.md",
-    "Quotes/202312111816 John Locke.md",
-    "Quotes/202312192302 Konfusius.md",
-    "Dataview.md"
+    "Quotes/202401251836 Al-Khindi.md",
+    "Untitled.md",
+    "Quotes/202401251834 Gus Baha.md",
+    "202401141813.md",
+    "202401191945.md",
+    "2023-12-05.md",
+    "Todo Lists/Idea.md",
+    "202401142125.md"
   ]
 }
