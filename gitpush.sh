@@ -6,4 +6,7 @@ commit_message="vault backup: "${current_datetime}
 
 git add *
 git commit -m "$commit_message"
+
+git add .obsidian
+git commit -m "changes (settings, plugins, snippets)"${current_datetime}
 git push origin main
