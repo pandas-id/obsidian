@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202403201359.md",
+                "file": "202403252104 PKN.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b5bb20f10753268e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202403201359.md",
+                "file": "202403252104 PKN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202403201359.md",
+                "file": "202403252104 PKN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202403201359.md"
+                "file": "202403252104 PKN.md"
               }
             }
           },
@@ -147,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "202403201359.md"
+                "file": "202403252104 PKN.md"
               }
             }
           }
@@ -172,15 +173,19 @@
   },
   "active": "b73ce65d59664a45",
   "lastOpenFiles": [
+    "akmal.pub",
+    "akmal",
+    "Dataview.md",
+    "202403160924 Falsafah Puasa.md",
+    "202403252104 PKN.md",
+    "202403201400.md",
+    "202403201359.md",
     "202403142045 My.md",
     "202403100911.md",
     "202403090953.md",
-    "202403201400.md",
-    "202403201359.md",
     "202401122031 PKN - Daftar Pustaka.md",
     "202402251718.md",
     "202403141843 Syekh Nawawi Al-Bantani.md",
-    "202403160924 Falsafah Puasa.md",
     "202312221851.md",
     "2024-03-13.md",
     "202403142045 Pedoman.md",
@@ -190,13 +195,10 @@
     "Notes/202401161600 inti ajaran islam.md",
     "Cabor Perseni.md",
     "Notes/202401132023 Kunci orang belajar.md",
-    "Dataview.md",
     "Notes/202401032101 Roster Semester 6.md",
     "Quotes/202401251836 Al-Khindi.md",
     "Untitled.md",
     "Quotes/202401251834 Gus Baha.md",
-    "202401141813.md",
-    "202401191945.md",
-    "2023-12-05.md"
+    "202401141813.md"
   ]
 }
