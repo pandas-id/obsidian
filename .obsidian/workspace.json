@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202403252104 PKN.md",
+                "file": "202312221851.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b5bb20f10753268e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202403252104 PKN.md",
+                "file": "202312221851.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202403252104 PKN.md",
+                "file": "202312221851.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202403252104 PKN.md"
+                "file": "202312221851.md"
               }
             }
           },
@@ -148,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "202403252104 PKN.md"
+                "file": "202312221851.md"
               }
             }
           }
@@ -173,19 +172,19 @@
   },
   "active": "b73ce65d59664a45",
   "lastOpenFiles": [
+    "202401122031 PKN - Daftar Pustaka.md",
+    "202402251718.md",
+    "202403100911.md",
+    "202403141843 Syekh Nawawi Al-Bantani.md",
+    "202403252104 PKN.md",
+    "202403142045 MyNoteBook.md",
+    "202403201400.md",
+    "202403201359.md",
+    "202403160924 Falsafah Puasa.md",
+    "202403090953.md",
     "akmal.pub",
     "akmal",
     "Dataview.md",
-    "202403160924 Falsafah Puasa.md",
-    "202403252104 PKN.md",
-    "202403201400.md",
-    "202403201359.md",
-    "202403142045 My.md",
-    "202403100911.md",
-    "202403090953.md",
-    "202401122031 PKN - Daftar Pustaka.md",
-    "202402251718.md",
-    "202403141843 Syekh Nawawi Al-Bantani.md",
     "202312221851.md",
     "2024-03-13.md",
     "202403142045 Pedoman.md",
