@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202312221851.md",
+                "file": "202403280436 Bahasa Inggris.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202312221851.md",
+                "file": "202403280436 Bahasa Inggris.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202312221851.md",
+                "file": "202403280436 Bahasa Inggris.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202312221851.md"
+                "file": "202403280436 Bahasa Inggris.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "202312221851.md"
+                "file": "202403280436 Bahasa Inggris.md"
               }
             }
           }
@@ -172,9 +172,12 @@
   },
   "active": "b73ce65d59664a45",
   "lastOpenFiles": [
+    "202403100911.md",
+    "202403280436 Bahasa Inggris.md",
+    "202403272157 Persiapan SNBT.md",
+    "202312221851.md",
     "202401122031 PKN - Daftar Pustaka.md",
     "202402251718.md",
-    "202403100911.md",
     "202403141843 Syekh Nawawi Al-Bantani.md",
     "202403252104 PKN.md",
     "202403142045 MyNoteBook.md",
@@ -185,7 +188,6 @@
     "akmal.pub",
     "akmal",
     "Dataview.md",
-    "202312221851.md",
     "2024-03-13.md",
     "202403142045 Pedoman.md",
     "Notes/202401132038 Akal hyperactive.md",
@@ -197,7 +199,6 @@
     "Notes/202401032101 Roster Semester 6.md",
     "Quotes/202401251836 Al-Khindi.md",
     "Untitled.md",
-    "Quotes/202401251834 Gus Baha.md",
-    "202401141813.md"
+    "Quotes/202401251834 Gus Baha.md"
   ]
 }
